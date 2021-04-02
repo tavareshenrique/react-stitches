@@ -1,46 +1,74 @@
-# Getting Started with Create React App
+<p align="center">
+   <img src="https://raw.githubusercontent.com/tavareshenrique/react-stitches/main/src/assets/images/fec8ba80-ee9f-11ea-829e-ad4d9b6377c2.png" alt="Stitches" width="650"/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+   <a href="https://www.linkedin.com/in/tavareshenrique/">
+      <img alt="Henrique Tavares" src="https://img.shields.io/badge/-Henrique Tavares-202024?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
 
-## Available Scripts
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-202024">
+</p>
 
-In the project directory, you can run:
+> This project was developed only to test the stitches styling library.
 
-### `yarn start`
+# :pushpin: Conteúdo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [Technology](#computer-technology)
+- [Running](#construction_worker-running)
+- [Author](#computer-author)
+- [License](#closed_book-license)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# :computer: Technology
 
-### `yarn test`
+This project was developed using the following technologies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [React](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [@stitches/react](http://stitches.dev/)
+- [polished](https://polished.js.org/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
 
-### `yarn build`
+# :construction_worker: Running
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# Clone the Repository
+$ git@github.com:tavareshenrique/react-stitches.git
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+# Download the dependencies
+$ yarn
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+# Running
+$ yarn start
+```
 
-### `yarn eject`
+Go to <http://localhost:3000> to see the result.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# :computer: Author
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<table>
+  <tr>
+    <td align="center">
+      <a href="http://github.com/tavareshenrique/">
+        <img src="https://avatars1.githubusercontent.com/u/27022914?v=4" width="100px;" alt="Henrique Tavares"/>
+        <br />
+        <sub>
+          <b>Henrique Tavares</b>
+        </sub>
+       </a>
+       <br />
+       <a href="https://www.linkedin.com/in/tavareshenrique/" title="Linkedin">@tavareshenrique</a>
+       <br />
+       <a href="https://github.com/tavareshenrique/fastfeet-api/commits?author=tavareshenrique" title="Code">💻</a>
+    </td>
+  </tr>
+</table>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# :closed_book: License
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is under the [MIT License](./LICENSE).
